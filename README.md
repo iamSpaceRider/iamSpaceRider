@@ -1,27 +1,38 @@
-### 🧠 SpaceRider
+# 👨‍🚀 spaceRider
 
-Indie creator, systems architect, and orbital strategist.  
-Building elegant, modular tools for creators and small teams.  
-From micro-SaaS flips to a unified suite of AI-powered apps.  
-
-> Quiet builds. Loud launches.  
-> Apps: Launched. Realities: Bent.  
-> Codename: Project Genesis  
-> HQ: [perpetualsys.com](https://perpetualsys.com)
-
-### 🌌 Current Missions:
-- 🪐 [Labelizor.app](https://labelizor.app) – Visual organization, reimagined.
-- 🧠 [HumanSim](https://humansim.app) – Open source AI collaboration simulator.
-- 🧰 [NexusKit](https://nexuskit.app) – Design systems meet developer tools.
-
-### 🎯 Focus:
-- Modular monorepos  
-- Indie SaaS flips  
-- Beautiful dev tools  
-- AI x UX interfaces  
-- Working at the edge of clarity
+**Indie creator navigating the edges of the web.**  
+Apps launched. Realities bent. Systems architected.
 
 ---
 
-**Builds in motion. Repos launching soon.**  
-Callsign: `@iamSpaceRider`
+## 🛠️ Projects
+
+Currently building:
+
+- **Project Genesis** (Codename) — laying the foundation for something massive.
+- Flipping lean SaaS tools to fuel the long game.
+- Open-source infrastructure for creative founders and dreamers.
+
+---
+
+## 🛰️ Philosophy
+
+Clarity is power.  
+Design should breathe.  
+AI isn’t the future — it’s the co-pilot.
+
+---
+
+## 💻 Contact
+
+Want to collaborate or follow the mission?
+
+- Twitter → [@iamSpaceRider](https://x.com/iamSpaceRider)
+- GitHub → [iamSpaceRider](https://github.com/iamSpaceRider)
+
+Callsign: **spaceRider**  
+Launched: **July 2025**
+
+---
+
+> “Build in stealth. Launch with signal.”
