@@ -1,4 +1,4 @@
-# 👨‍🚀 spaceRider
+# 👨‍🚀 iamSpaceRider
 
 **Indie creator navigating the edges of the web.**  
 Apps launched. Realities bent. Systems architected.
