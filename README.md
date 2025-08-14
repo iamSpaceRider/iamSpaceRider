@@ -29,6 +29,7 @@ Want to collaborate or follow the mission?
 
 - Twitter → [@iamSpaceRider](https://x.com/iamSpaceRider)
 - GitHub → [iamSpaceRider](https://github.com/iamSpaceRider)
+- SoundCloud → [iamSpaceRider](https://soundcloud.com/iamspacerider)
 
 Callsign: **spaceRider**  
 Launched: **July 2025**
